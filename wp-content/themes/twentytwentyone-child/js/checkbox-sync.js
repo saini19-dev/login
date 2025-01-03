@@ -10,7 +10,7 @@ jQuery(document).ready(function ($) {
             status: status,
         }, function (response) {
             if (response.success) {
-                alert('Status updated successfully.');
+                alert('Status updated successfully...');
 
                 // If the status is set to "Available for Jobs" (checked), send email to Admin
                 if (status == '1') {
