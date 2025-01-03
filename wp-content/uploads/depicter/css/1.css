@@ -1,0 +1,43 @@
+
+.depicter-revert .depicter-1-element-6{
+	font-size:13px;
+	text-align:center;
+	color:#000;
+	font-family:"Open Sans";
+	font-weight:300;
+	background-color:transparent;
+	border-width:2px;
+	border-style:solid;
+	border-color:#707070;
+}
+.depicter-revert .depicter-1-element-6:not(.depicter-hover-off){
+	transition:all ease 1s;
+}
+.depicter-revert .depicter-1-element-6:not(.depicter-hover-off):hover {
+	color:#FFF;
+	background-color:#222;
+	border-color:#707070;
+}
+.depicter-revert .depicter-1-element-6-frame{
+	mix-blend-mode:normal;
+}
+.depicter-revert .depicter-1-element-4{
+	font-size:25px;
+	color:#EBEBEB;
+	font-family:"Open Sans";
+	font-weight:400;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-element-3{
+	font-size:50px;
+	color:#EBEBEB;
+	font-family:"Open Sans";
+	font-weight:700;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-section-1 .depicter-section-background{
+	background-color:#FFF;
+}
+
